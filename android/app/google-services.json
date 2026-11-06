@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "139283657171",
+    "project_id": "sweetsheep-bf4ac",
+    "storage_bucket": "sweetsheep-bf4ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139283657171:android:54a60e32c3f9a954727f26",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139283657171-l5m1bmr96uer32hngt2hb5irkabapg5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_1",
+            "certificate_hash": "29dad913d6e623aad8b79583ceb2d21f5441da8f"
+          }
+        },
+        {
+          "client_id": "139283657171-8gef94ir4gv7e5qregn02buotrhhnief.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Dcwym4-v_n1mdm-qI-OS2rQDcj_p49c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139283657171-8gef94ir4gv7e5qregn02buotrhhnief.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139283657171-7jo52pgh7m6houcik65g58ktb5j6bjv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139283657171:android:e5141d543bd833f2727f26",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139283657171-h6uspv67itffa482gt0i6pcofq5i4v8v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_application_3",
+            "certificate_hash": "54f2fb43d3b777dbd177a2e3a708f3b1d997c08f"
+          }
+        },
+        {
+          "client_id": "139283657171-8gef94ir4gv7e5qregn02buotrhhnief.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Dcwym4-v_n1mdm-qI-OS2rQDcj_p49c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139283657171-8gef94ir4gv7e5qregn02buotrhhnief.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139283657171-7jo52pgh7m6houcik65g58ktb5j6bjv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication3"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139283657171:android:eb70c8b401930bda727f26",
+        "android_client_info": {
+          "package_name": "com.example.todo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139283657171-8gef94ir4gv7e5qregn02buotrhhnief.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-Dcwym4-v_n1mdm-qI-OS2rQDcj_p49c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139283657171-8gef94ir4gv7e5qregn02buotrhhnief.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "139283657171-7jo52pgh7m6houcik65g58ktb5j6bjv1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterApplication3"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
